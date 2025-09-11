@@ -1,0 +1,1 @@
+Following along with the book "Writing An Interpreter in GO" by Thorsten Ball
